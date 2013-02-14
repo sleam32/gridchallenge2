@@ -1,0 +1,34 @@
+.container_16{
+	/*background-color: silver;*/
+	height: 960px;
+}
+
+.grid_8{
+	background-color: silver;
+	height: 250px;
+}
+
+.grid_4{
+	background-color: silver;
+	height: 250px;
+}
+
+#box1{
+	background-color: silver;
+
+}
+
+#box2{
+	background-color: silver;
+}
+
+#box3{
+	background-color: silver;
+	margin-top: 20px;
+}
+
+.grid_12{
+	background-color: silver;
+	height: 250px;
+	margin-top: 20px;
+}

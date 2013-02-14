@@ -1,0 +1,40 @@
+.grid_16{
+	background-color: silver;
+	height: 60px;
+	margin-bottom: 10px;
+}
+
+.grid_4{
+	background-color: silver;
+	height: 200px;
+}
+
+#new{
+	background-color: silver;
+	height: 60px;
+	margin-top: 10px;
+}
+
+#newbox{
+	background-color: silver;
+	height: 60px;
+	margin-top: 10px;
+}
+
+#newbox2{
+	background-color: silver;
+	height: 250px;
+	margin-top: 10px;
+}
+
+#newbox3{
+	background-color: silver;
+	height: 250px;
+	margin-top: 10px;
+}
+
+#newbox4{
+	background-color: silver;
+	height: 250px;
+	margin-top: 10px;
+}
